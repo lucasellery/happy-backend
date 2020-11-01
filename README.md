@@ -22,4 +22,6 @@
 ### Banco de dados
   - Driver nativo: Como estamos acostumados através de linha de comando.
   - Query builder: Knex, por exemplo => construtor de queries de banco de dados
-  - ORM: maior nível de abstração possível; cada objeto é uma instância de entidade do banco.
+  - ORM (*o que vamos usar nesse projeto*): maior nível de abstração possível; cada objeto é uma instância de entidade do banco.
+  Migrations:
+    *Permitem que a cada alteração, eu crie um arquivo com as instruções do que precisa ser feito*
